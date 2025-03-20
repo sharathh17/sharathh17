@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharathh17
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Masters in Computer Science
+- 🌱 I’m currently finishing my Masters in Computer Science
 
 
 <!---
